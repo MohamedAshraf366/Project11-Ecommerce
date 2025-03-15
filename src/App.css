@@ -1,0 +1,92 @@
+/*header.js*/
+.navFont:hover{
+    font-weight: bold;
+}
+
+/* ///////////////////////////////////////////////////////////////////////// */
+/* main.jsx */
+.carousel-control-next-icon{
+    color: gray !important;
+}
+/* ///////////////////////////////////////////////////////////////////////////////// */
+/* latestProducts.jsx */
+.h-25{
+    height: 300px !important;
+}
+.cardTitle{
+    display: -webkit-box;
+  -webkit-line-clamp:1; /* عدد الأسطر المراد عرضها */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.cardText{
+    display: -webkit-box;
+  -webkit-line-clamp:2; /* عدد الأسطر المراد عرضها */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.divButtons{
+    text-transform: capitalize;
+}
+/* //////////////////////////////////////////////////////////////////////////////////////////// */
+/* specificProduct.jsx */
+.specifiProduct-card, .specifiProduct-card img{
+    height: 60vh !important;
+}
+/* //////////////////////////////////////////////////////////////////////////////////////////// */
+/* comment.jsx */
+.divPointer {
+    list-style: none;
+}
+.divPointer li::before {
+    content: "🦱 "; /* Adds the emoji before each list item */
+    margin-right: 5px; /* Optional: Adds spacing between the emoji and the text */
+}
+
+.card-img-top {
+    height: 250px;  /* حجم ثابت لجميع الصور */
+    object-fit: cover;
+  }
+.w-200{
+    width: 400%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ///////////////////////////////////////////////////////////////////////////////////////// */
+/* العرض يكون 100% على الشاشات الصغيرة (أقل من 768px) */
+
+  
