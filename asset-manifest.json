@@ -1,14 +1,22 @@
 {
   "files": {
     "main.css": "/Project11-Ecommerce/static/css/main.f47aba21.css",
-    "main.js": "/Project11-Ecommerce/static/js/main.213cbb3d.js",
+    "main.js": "/Project11-Ecommerce/static/js/main.6094f6ef.js",
     "static/js/488.bc663c32.chunk.js": "/Project11-Ecommerce/static/js/488.bc663c32.chunk.js",
     "static/media/fa-solid-900.ttf": "/Project11-Ecommerce/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/arm-chair-01.jpg": "/Project11-Ecommerce/static/media/arm-chair-01.89e1f025e35e0058bb85.jpg",
+    "static/media/watch-01.jpg": "/Project11-Ecommerce/static/media/watch-01.edc39b7f8f5435c24e41.jpg",
     "static/media/fa-brands-400.ttf": "/Project11-Ecommerce/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/phone-01.jpg": "/Project11-Ecommerce/static/media/phone-01.d86035d9fda1b97694c9.jpg",
     "static/media/fa-solid-900.woff2": "/Project11-Ecommerce/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
     "static/media/fa-brands-400.woff2": "/Project11-Ecommerce/static/media/fa-brands-400.c210719e60948b211a12.woff2",
     "static/media/fa-regular-400.ttf": "/Project11-Ecommerce/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/wireless-01.png": "/Project11-Ecommerce/static/media/wireless-01.1a76d777727c50ca0294.png",
+    "static/media/women.jpeg": "/Project11-Ecommerce/static/media/women.39fe35ad8f85b7cc0366.jpeg",
+    "static/media/electronics.jpeg": "/Project11-Ecommerce/static/media/electronics.629d5b25026afba94e78.jpeg",
+    "static/media/mens.jpeg": "/Project11-Ecommerce/static/media/mens.d7683052e2265df43b0f.jpeg",
     "static/media/fa-regular-400.woff2": "/Project11-Ecommerce/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/Jewelery.webp": "/Project11-Ecommerce/static/media/Jewelery.d2e43ee1ee60099bd3ba.webp",
     "static/media/fa-v4compatibility.ttf": "/Project11-Ecommerce/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/Project11-Ecommerce/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "static/media/slick.svg": "/Project11-Ecommerce/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -17,11 +25,11 @@
     "static/media/slick.woff": "/Project11-Ecommerce/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Project11-Ecommerce/index.html",
     "main.f47aba21.css.map": "/Project11-Ecommerce/static/css/main.f47aba21.css.map",
-    "main.213cbb3d.js.map": "/Project11-Ecommerce/static/js/main.213cbb3d.js.map",
+    "main.6094f6ef.js.map": "/Project11-Ecommerce/static/js/main.6094f6ef.js.map",
     "488.bc663c32.chunk.js.map": "/Project11-Ecommerce/static/js/488.bc663c32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f47aba21.css",
-    "static/js/main.213cbb3d.js"
+    "static/js/main.6094f6ef.js"
   ]
 }
