@@ -17,7 +17,7 @@ import { Checkout } from './pages/Checkout';
 
 function App() {
   return (
-    <Router basename="/Project11-Ecommerce">
+    <Router>
       <Header />
       <Routes>
         <Route path='/' element={<Home />} />
