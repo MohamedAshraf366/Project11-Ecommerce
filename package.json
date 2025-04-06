@@ -1,0 +1,68 @@
+{
+  "homepage": "https://mohamedashraf366.github.io/Project11-Ecommerce/",
+  "name": "project18thtask",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.7.2",
+    "@fortawesome/fontawesome-svg-core": "^6.7.2",
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@reduxjs/toolkit": "^2.6.1",
+    "bootstrap": "^5.3.3",
+    "clsx": "^2.1.1",
+    "cra-template": "1.2.0",
+    "motion": "^12.4.2",
+    "react": "^19.0.0",
+    "react-bootstrap": "^2.10.9",
+    "react-dom": "^19.0.0",
+    "react-element-to-jsx-string": "^17.0.0",
+    "react-fast-marquee": "^1.6.5",
+    "react-hot-toast": "^2.5.2",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.2.0",
+    "react-scripts": "5.0.1",
+    "react-slick": "^0.30.3",
+    "react-typed": "^2.0.12",
+    "redux-persist": "^6.0.0",
+    "slick-carousel": "^1.8.1",
+    "tailwind-merge": "^3.0.1",
+    "web-vitals": "^4.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "gh-pages": "^6.3.0"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env",
+      "@babel/preset-react"
+    ]
+  }
+}
