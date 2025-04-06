@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Project11-Ecommerce/static/css/main.f47aba21.css",
-    "main.js": "/Project11-Ecommerce/static/js/main.6094f6ef.js",
+    "main.js": "/Project11-Ecommerce/static/js/main.bfa1b175.js",
     "static/js/488.bc663c32.chunk.js": "/Project11-Ecommerce/static/js/488.bc663c32.chunk.js",
     "static/media/fa-solid-900.ttf": "/Project11-Ecommerce/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/arm-chair-01.jpg": "/Project11-Ecommerce/static/media/arm-chair-01.89e1f025e35e0058bb85.jpg",
@@ -25,11 +25,11 @@
     "static/media/slick.woff": "/Project11-Ecommerce/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Project11-Ecommerce/index.html",
     "main.f47aba21.css.map": "/Project11-Ecommerce/static/css/main.f47aba21.css.map",
-    "main.6094f6ef.js.map": "/Project11-Ecommerce/static/js/main.6094f6ef.js.map",
+    "main.bfa1b175.js.map": "/Project11-Ecommerce/static/js/main.bfa1b175.js.map",
     "488.bc663c32.chunk.js.map": "/Project11-Ecommerce/static/js/488.bc663c32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f47aba21.css",
-    "static/js/main.6094f6ef.js"
+    "static/js/main.bfa1b175.js"
   ]
 }
